@@ -1,0 +1,141 @@
+﻿* {
+    font-family: Courier New, monospace;
+}
+
+#x-input {
+    font-family: Courier New, monospace;
+}
+td {
+    color: #ddcaca;
+    font-size: 25px;
+    border: 5px solid #2e3f83;
+    margin-left: 30px;
+    opacity: 0.85;
+    width: 5%;
+}
+
+
+.table {
+    font-size: 1px;
+    height: 20%;
+    width: 100%;
+}
+
+
+/* Checked */
+.form_radio_btn input[type=radio]:checked + label {
+    background: #3a5da5;
+}
+
+/* Hover */
+.form_radio_btn label:hover {
+    color: #666;
+}
+
+.container {
+    text-align: left;
+    width: 900px;
+    /* Ширина слоя */
+    margin: 0 auto;
+    /* Выравнивнить весь блок по центру */
+    background: #2e3f83;
+    /* Цвет фона левой колонки */
+    border: 2px solid #0b246e;
+    box-shadow: 15px 15px 15px ;
+}
+
+.header {
+    font-size: 25px;
+    /* Размер текста в шапке */
+    text-align: center;
+    /* Выравнивание текст шапки по центру */
+    padding: 5px;
+    /* Отступы внутри блока шапки */
+    background: #0b246e;
+    /* Цвет фона шапки */
+    color: #fff;
+    /* Цвет текста */
+    text-transform: uppercase;
+}
+
+.sidebar {
+
+    margin-top: 0;
+    width: 450px;
+    /* Ширина блока */
+    padding: 0 0;
+    /* Отступы внутри левого блока */
+    float: right;
+    /* Обтекание блока по левому краю */
+    border: 5px solid #0b246e;
+    height: 450px;
+}
+.form_input{
+    margin-top:  30px;
+}
+
+.form_button {
+    margin-left:  60px;
+}
+
+.content {
+    width: 400px;
+    margin-right: 600px;
+    /* Отступ справа */
+    padding: 10px;
+    /* Отступы внутри правого блока */
+    background: #1d4875;
+    /* Цвет фона правого блока */
+    border: 5px solid #0b246e;
+    height: 430px;
+min-height: 10em;
+    display: table-cell;
+    vertical-align: middle;
+ text-align: center;
+
+}
+
+
+.footer {
+    background: #1d4875;
+    /* Цвет фона нижнего блока-подвала */
+    color: #fff;
+    /* Цвет текста подвала */
+    padding: 5px;
+    /* Отступы внутри блока */
+    clear: right;
+    /* Отменяем действие float */
+    border: 2px solid #0b246e; /*#5476d3*/
+    width: 900px;
+}
+
+.textCloud {
+	text-align: center;
+    color: #fff;
+}d #0b246e; /*#5476d3*/
+    width: 900px;
+}
+
+.textCloud {
+	text-align: center;
+    color: #fff;
+} Отступы внутри блока */
+    clear: right;
+    /* Отменяем действие float */
+    border: 2px solid #0b246e; /*#5476d3*/
+    width: 900px;
+}
+
+.textCloud {
+	text-align: center;
+    color: #fff;
+}at */
+    border: 2px solid #0b246e; /*#5476d3*/
+    width: 900px;
+}
+
+
+.textCloud {
+	text-align: center;
+    color: #fff;
+}
